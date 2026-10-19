@@ -42,3 +42,10 @@ ENV/
 
 # PyCharm env
 .idea
+
+# Research caches and generated artifacts
+examples/vysotsk/cache/
+examples/vysotsk/data/osm_cache/
+
+# Extra virtual environments
+.venv.venv/

@@ -41,4 +41,4 @@ tests: # тестирование
 	pytest ${TEST_DIR}
 
 tests-cov: # тестирование с выводом процента покрытия кода тестами
-	pytest ${TEST_DIR} --cov
+	pytest ${TEST_DIR} --cov	

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "service_kindergarten",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "multipolygon", "amenity": "kindergarten", "name": "Детский сад «Боровичок»", "phone": "+7 81378 41311", "capacity": null, "_id": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.5710402, 60.629245699999984 ], [ 28.5710785, 60.629377 ], [ 28.571272, 60.6294422 ], [ 28.5721038, 60.6288483 ], [ 28.5718197, 60.6287551 ], [ 28.5712311, 60.6287981 ], [ 28.5710944, 60.6287868 ], [ 28.5709053, 60.628800599999984 ], [ 28.5709232, 60.6288597 ], [ 28.5709784, 60.6290419 ], [ 28.5710402, 60.629245699999984 ] ] ] } }
+]
+}
